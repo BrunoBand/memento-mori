@@ -1,0 +1,9 @@
+inputs
+
+1. quadro de dias, semanas, meses ou anos?
+2. quer os quadrados pintados que já passaram?
+	se sim
+		perguntar a idade
+
+3. adicionar metas?
+	
